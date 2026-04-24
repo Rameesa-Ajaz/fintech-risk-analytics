@@ -1,6 +1,7 @@
 # Fintech Risk Analytics Dashboard
 
-![Fintech Dashboard Preview](docs/dashboard_preview.png)
+![Fintech Dashboard Preview]<img width="1892" height="910" alt="dashboard" src="https://github.com/user-attachments/assets/d88dde92-e60d-4bb3-893a-a0b9c81a7ad5" />
+
 
 A dashboard built with Streamlit to visualize credit card transaction risk.
 
